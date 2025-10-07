@@ -37,7 +37,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
 </picture>
 
-  ![snake gif](https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 💼 Tech Stack
