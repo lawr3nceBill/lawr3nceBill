@@ -1,6 +1,6 @@
 # Hi there, I'm Lawrence 👋
 
-Hi, I'm a Full Stack Developer with experience in building end-to-end web applications. I work across both frontend and backend technologies to create scalable, responsive, and user-friendly solutions. I enjoy solving problems, writing clean code, and continuously learning new tools and frameworks to improve my craft.
+I'm a Full Stack Developer with experience in building end-to-end web applications. I work across both frontend and backend technologies to create scalable, responsive, and user-friendly solutions. I enjoy solving problems, writing clean code, and continuously learning new tools and frameworks to improve my craft.
 
 ---
 
