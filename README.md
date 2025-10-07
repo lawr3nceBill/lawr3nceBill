@@ -19,12 +19,9 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight"/>
+   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 
@@ -34,22 +31,20 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
+---
 ## 💼 Tech Stack
 
 <div align="center">
-
+  
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,angular,react,nextjs)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,angular,react,nextjs)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
 </div>
 
 ---
@@ -57,7 +52,6 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 ## 🤝 Connect & Collaborate
 
 <div align="center">
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -66,10 +60,10 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-
 </div>
 
 ---
+
 <p align="center">
   <img src="https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </p>
