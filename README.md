@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Project 1](https://img.shields.io/badge/Project-RIMS_Application-blue?style=for-the-badge&logo=angular)](https://github.com/yourusername/project1)
-[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=react)](https://github.com/yourusername/project2)
-[![Project 3](https://img.shields.io/badge/Project-API_Service-orange?style=for-the-badge&logo=dotnet)](https://github.com/yourusername/project3)
+[![Project 1](https://img.shields.io/badge/Project-RIMS_Application-blue?style=for-the-badge&logo=angular)](https://github.com/lawr3nceBill/project1)
+[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=react)](https://github.com/lawr3nceBill/project2)
+[![Project 3](https://img.shields.io/badge/Project-API_Service-orange?style=for-the-badge&logo=dotnet)](https://github.com/lawr3nceBill/project3)
 
 </div>
 
@@ -19,12 +19,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lawrence&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill &layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill &theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -32,9 +32,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <div align="center">
