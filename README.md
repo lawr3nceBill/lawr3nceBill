@@ -31,7 +31,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center"> 
-  ![snake gif](https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg
+  ![snake gif](https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg">
