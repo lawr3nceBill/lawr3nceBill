@@ -28,11 +28,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
@@ -78,7 +73,9 @@
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
