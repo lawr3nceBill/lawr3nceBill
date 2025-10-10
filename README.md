@@ -48,18 +48,13 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 
 ---
 
-## 🤝 Connect & Collaborate
-
-<div align="center">
-<p>
+<!-- <div align="center">
+<p>## 🤝 Connect & Collaborate
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </p>
-</div>
+</div> -->
 
 ---
 
