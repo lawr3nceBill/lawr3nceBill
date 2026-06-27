@@ -8,9 +8,8 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 
 <div align="center">
 
-[![Project 1](https://img.shields.io/badge/Project-RIMS_Application-blue?style=for-the-badge&logo=angular)](https://github.com/lawr3nceBill/project1)
-[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=react)](https://github.com/lawr3nceBill/project2)
-[![Project 3](https://img.shields.io/badge/Project-API_Service-orange?style=for-the-badge&logo=dotnet)](https://github.com/lawr3nceBill/project3)
+[![Project 1](https://img.shields.io/badge/Project-AnimeMira-blue?style=for-the-badge&logo=nextjs)](https://anime.brrystudio.shop/)
+[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=nextjs)](https://brrystudio.shop/)
 
 </div>
 
