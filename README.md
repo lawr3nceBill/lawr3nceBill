@@ -9,7 +9,8 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 <div align="center">
 
 [![Project 1](https://img.shields.io/badge/Project-AnimeMira-blue?style=for-the-badge&logo=nextjs)](https://anime.brrystudio.shop/)
-[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=nextjs)](https://brrystudio.shop/)
+[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=nextjs)](https://lawdevportfolio.netlify.app/)
+[![Project 3](https://img.shields.io/badge/Project-E-Commerce-green?style=for-the-badge&logo=nextjs)](https://brrystudio.shop/)
 
 </div>
 
