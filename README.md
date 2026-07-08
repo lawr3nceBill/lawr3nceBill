@@ -1,82 +1,103 @@
-# Hi there, I'm Lawrence 👋
+<h1 align="center">Lawrence — Full Stack Developer</h1>
 
-**Full Stack Developer** building end-to-end web applications across frontend and backend. I focus on writing clean, scalable code and enjoy solving real problems while continuously sharpening my craft.
+<p align="center">
+  <em>I design and ship end-to-end web applications, from interface to database.</em>
+</p>
 
-- 🔭 Currently working on web projects with Next.js and .NET
-- 🌱 Always learning new tools and frameworks
-- 💬 Open to collaboration and new opportunities
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![AnimeMira](https://img.shields.io/badge/AnimeMira-Live_Demo-blue?style=for-the-badge&logo=nextdotjs)](https://anime.brrystudio.shop/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-green?style=for-the-badge&logo=netlify)](https://lawdevportfolio.netlify.app/)
-[![Brry Studio](https://img.shields.io/badge/Brry_Studio-Live_Demo-orange?style=for-the-badge&logo=nextdotjs)](https://brrystudio.shop/)
-
-</div>
+<p align="center">
+  <a href="https://brrystudio.shop/">Studio</a> ·
+  <a href="https://lawdevportfolio.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a>
+</p>
 
 ---
 
-## 💼 Tech Stack
+### What I do
 
-<div align="center">
+I build responsive, scalable web apps and care about the full lifecycle — clean architecture on the backend, considered interfaces on the front, and shipping things that actually work in production. Most of my recent work runs under **brry studio**, my personal build space for real projects.
 
-**Frontend**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,angular)](https://skillicons.dev)
+**🔨 Now building**
 
-**Backend**
+Next.js + .NET web apps under brry studio.
+
+</td>
+<td valign="top" width="33%">
+
+**🌱 Learning**
+
+Deeper TypeScript, system design, and clean architecture patterns.
+
+</td>
+<td valign="top" width="33%">
+
+**🤝 Open to**
+
+Collaboration and full stack opportunities.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Selected work
+
+| Project | What it is | Link |
+|---|---|---|
+| **AnimeMira** | Anime browsing app built on Next.js | [Live](https://anime.brrystudio.shop/) |
+| **Brry Studio** | My studio site and project hub | [Live](https://brrystudio.shop/) |
+| **Portfolio** | Personal developer portfolio | [Live](https://lawdevportfolio.netlify.app/) |
+
+---
+
+### Stack
+
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,sass)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
 
 [![Backend](https://skillicons.dev/icons?i=cs,dotnet,php)](https://skillicons.dev)
 
-**Database**
+</td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td>
 
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+### Activity
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill&theme=tokyonight" alt="GitHub Streak"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR-HANDLE)
-
-</div>
-
----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 </p>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
-<div align="center">
-
-> 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=6272a4&style=flat-square&label=Profile+views"/>
+</p>
