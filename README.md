@@ -1,6 +1,10 @@
 # Hi there, I'm Lawrence 👋
 
-I'm a Full Stack Developer with experience in building end-to-end web applications. I work across both frontend and backend technologies to create scalable, responsive, and user-friendly solutions. I enjoy solving problems, writing clean code, and continuously learning new tools and frameworks to improve my craft.
+**Full Stack Developer** building end-to-end web applications across frontend and backend. I focus on writing clean, scalable code and enjoy solving real problems while continuously sharpening my craft.
+
+- 🔭 Currently working on web projects with Next.js and .NET
+- 🌱 Always learning new tools and frameworks
+- 💬 Open to collaboration and new opportunities
 
 ---
 
@@ -8,9 +12,29 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 
 <div align="center">
 
-[![Project 1](https://img.shields.io/badge/Project-AnimeMira-blue?style=for-the-badge&logo=nextjs)](https://anime.brrystudio.shop/)
-[![Project 2](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=nextjs)](https://lawdevportfolio.netlify.app/)
-[![Project 3](https://img.shields.io/badge/Project-Portfolio_Website-green?style=for-the-badge&logo=nextjs)](https://brrystudio.shop/)
+[![AnimeMira](https://img.shields.io/badge/AnimeMira-Live_Demo-blue?style=for-the-badge&logo=nextdotjs)](https://anime.brrystudio.shop/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-green?style=for-the-badge&logo=netlify)](https://lawdevportfolio.netlify.app/)
+[![Brry Studio](https://img.shields.io/badge/Brry_Studio-Live_Demo-orange?style=for-the-badge&logo=nextdotjs)](https://brrystudio.shop/)
+
+</div>
+
+---
+
+## 💼 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,angular)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,php)](https://skillicons.dev)
+
+**Database**
+
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 </div>
 
@@ -19,54 +43,40 @@ I'm a Full Stack Developer with experience in building end-to-end web applicatio
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight"/>
-   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill&theme=tokyonight" alt="GitHub Streak"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lawr3nceBill&theme=tokyonight" alt="GitHub Streak"/>
+
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
-## 💼 Tech Stack
+
+## 🤝 Connect
 
 <div align="center">
-  
-### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,angular,react,nextjs)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR-HANDLE)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 </div>
-
----
-
-<!-- <div align="center">
-<p>## 🤝 Connect & Collaborate
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-</div> -->
 
 ---
 
 <p align="center">
-  <img src="https://github.com/lawr3nceBill/lawr3nceBill/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/lawr3nceBill/lawr3nceBill/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=lawr3nceBill&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+> 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
