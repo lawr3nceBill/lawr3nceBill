@@ -38,7 +38,7 @@
   </a>
 </div>
 
-I build end-to-end web applications under **brry studio**, my personal build space — from Next.js frontends to .NET backends. I care about clean architecture, responsive interfaces, and shipping things that hold up in production.
+Hi, I'm Lawrence a Full-Stack Developer based in Abu Dhabi, building web apps with Angular and ASP.NET Core. Currently working remotely, with a background in Application Support and incident analysis. Always tinkering with something homelab, self-hostin.
 
 <!--### GitHub Analytics
 <div align="center">
@@ -63,9 +63,7 @@ I build end-to-end web applications under **brry studio**, my personal build spa
 <!--### Employer?
 [!IMPORTANT]
 > <a href="https://drive.google.com/drive/folders/YOUR-RESUME-LINK" download>Download my resume</a>
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=120&section=footer" alt="footer"/>
--->
-<!--
-     Thanks for stopping by <3
--->
+
+Thanks for stopping by <3
