@@ -59,12 +59,12 @@ I build end-to-end web applications under **brry studio**, my personal build spa
 <!--
      Oh, hello there, recruiters!
 -->
-### Employer?
-> [!IMPORTANT]
+<!--### Employer?
+[!IMPORTANT]
 > <a href="https://drive.google.com/drive/folders/YOUR-RESUME-LINK" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=120&section=footer" alt="footer"/>
-
+-->
 <!--
      Thanks for stopping by <3
 -->
