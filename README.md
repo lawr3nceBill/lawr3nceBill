@@ -40,7 +40,7 @@
 
 I build end-to-end web applications under **brry studio**, my personal build space — from Next.js frontends to .NET backends. I care about clean architecture, responsive interfaces, and shipping things that hold up in production.
 
-### GitHub Analytics
+<!--### GitHub Analytics
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lawr3nceBill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawr3nceBill&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -55,6 +55,7 @@ I build end-to-end web applications under **brry studio**, my personal build spa
         <img src="https://img.shields.io/badge/Portfolio-6272A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
+-->
 
 <!--
      Oh, hello there, recruiters!
