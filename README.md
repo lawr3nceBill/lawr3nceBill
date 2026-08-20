@@ -20,10 +20,22 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,sass,cs,dotnet,php,nodejs,mysql,mongodb,git,github)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,sass&perline=8)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,php,nodejs,mysql,mongodb&perline=8)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&perline=8)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
+
+[![Learning](https://skillicons.dev/icons?i=aws,azure,docker&perline=8)](https://skillicons.dev)
 
 ### Featured projects
 <div>
